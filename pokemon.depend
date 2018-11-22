@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540775259 source:c:\users\admin\onedrive\documents\4hwc\filiales de 4hwc\4hwc it\learning c\c plus plus\pokemon\pokemon.cpp
+	"Pokemon.h"
+
+1540775729 c:\users\admin\onedrive\documents\4hwc\filiales de 4hwc\4hwc it\learning c\c plus plus\pokemon\pokemon.h
+	<string>
+	<vector>
+
+1540775652 source:c:\users\admin\onedrive\documents\4hwc\filiales de 4hwc\4hwc it\learning c\c plus plus\pokemon\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+	"Pokemon.h"
+
